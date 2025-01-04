@@ -1,0 +1,333 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Device xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Logitech G512</Name>
+  <Author>Adam Middleton</Author>
+  <Type>Keyboard</Type>
+  <Vendor>Logitech</Vendor>
+  <Model>G512</Model>
+  <Width>445</Width>
+  <Height>132</Height>
+  <Leds>
+    <Led Id="Keyboard_Escape">
+      <X>5.4</X>
+      <Y>6.1</Y>
+    </Led>
+    <Led Id="Keyboard_F1">
+      <X>38</X>
+      <Y>6</Y>
+    </Led>
+    <Led Id="Keyboard_F2">
+      <X>57</X>
+      <Y>6</Y>
+    </Led>
+    <Led Id="Keyboard_F3">
+      <X>76</X>
+      <Y>6</Y>
+    </Led>
+    <Led Id="Keyboard_F4" />
+    <Led Id="Keyboard_F5">
+      <X>127</X>
+      <Y>6</Y>
+    </Led>
+    <Led Id="Keyboard_F6" />
+    <Led Id="Keyboard_F7" />
+    <Led Id="Keyboard_F8" />
+    <Led Id="Keyboard_F9">
+      <X>216</X>
+      <Y>6</Y>
+    </Led>
+    <Led Id="Keyboard_F10" />
+    <Led Id="Keyboard_F11" />
+    <Led Id="Keyboard_F12" />
+    <Led Id="Keyboard_GraveAccentAndTilde">
+      <X>6</X>
+      <Y>30</Y>
+    </Led>
+    <Led Id="Keyboard_1">
+      <X>+.1</X>
+    </Led>
+    <Led Id="Keyboard_2">
+      <X>+.1</X>
+    </Led>
+    <Led Id="Keyboard_3">
+      <X>+.1</X>
+    </Led>
+    <Led Id="Keyboard_4">
+      <X>+.1</X>
+    </Led>
+    <Led Id="Keyboard_5">
+      <X>+.1</X>
+    </Led>
+    <Led Id="Keyboard_6">
+      <X>+.1</X>
+    </Led>
+    <Led Id="Keyboard_7">
+      <X>+.1</X>
+    </Led>
+    <Led Id="Keyboard_8">
+      <X>+.1</X>
+    </Led>
+    <Led Id="Keyboard_9">
+      <X>+.1</X>
+    </Led>
+    <Led Id="Keyboard_0">
+      <X>+.1</X>
+    </Led>
+    <Led Id="Keyboard_MinusAndUnderscore">
+      <X>+.1</X>
+    </Led>
+    <Led Id="Keyboard_EqualsAndPlus">
+      <X>+.1</X>
+    </Led>
+    <Led Id="Keyboard_Backspace">
+      <X>+.1</X>
+      <Width>2</Width>
+    </Led>
+    <Led Id="Keyboard_Tab">
+      <X>6</X>
+      <Y>49.2</Y>
+      <Width>1.5</Width>
+    </Led>
+    <Led Id="Keyboard_Q" />
+    <Led Id="Keyboard_W" />
+    <Led Id="Keyboard_E" />
+    <Led Id="Keyboard_R" />
+    <Led Id="Keyboard_T" />
+    <Led Id="Keyboard_Y" />
+    <Led Id="Keyboard_U" />
+    <Led Id="Keyboard_I" />
+    <Led Id="Keyboard_O" />
+    <Led Id="Keyboard_P" />
+    <Led Id="Keyboard_BracketLeft" />
+    <Led Id="Keyboard_BracketRight" />
+    <Led Id="Keyboard_Enter">
+      <Shape> M0.0080,0.028 L0.989,0.035 L0.984,0.987 L0.213,0.991 L0.20,0.500 L0.001,0.500z</Shape>
+      <X>263.8</X>
+      <Y>48.4</Y>
+      <Width>1.5</Width>
+      <Height>2</Height>
+    </Led>
+    <Led Id="Keyboard_CapsLock">
+      <X>6</X>
+      <Y>68.4</Y>
+      <Width>1.7</Width>
+    </Led>
+    <Led Id="Keyboard_A">
+      <X>+.1</X>
+    </Led>
+    <Led Id="Keyboard_S">
+      <X>+.1</X>
+    </Led>
+    <Led Id="Keyboard_D">
+      <X>+.1</X>
+    </Led>
+    <Led Id="Keyboard_F">
+      <X>+.1</X>
+    </Led>
+    <Led Id="Keyboard_G">
+      <X>+.1</X>
+    </Led>
+    <Led Id="Keyboard_H">
+      <X>+.1</X>
+    </Led>
+    <Led Id="Keyboard_J">
+      <X>+.1</X>
+    </Led>
+    <Led Id="Keyboard_K">
+      <X>+.1</X>
+    </Led>
+    <Led Id="Keyboard_L">
+      <X>+.1</X>
+    </Led>
+    <Led Id="Keyboard_SemicolonAndColon">
+      <X>+.1</X>
+    </Led>
+    <Led Id="Keyboard_ApostropheAndDoubleQuote">
+      <X>+.1</X>
+    </Led>
+    <Led Id="Keyboard_NonUsTilde">
+      <X>+.1</X>
+    </Led>
+    <Led Id="Keyboard_LeftShift">
+      <X>6</X>
+      <Y>87.6</Y>
+      <Width>1.23</Width>
+    </Led>
+    <Led Id="Keyboard_NonUsBackslash">
+      <X>+.1</X>
+    </Led>
+    <Led Id="Keyboard_Z">
+      <X>+.1</X>
+    </Led>
+    <Led Id="Keyboard_X">
+      <X>+.1</X>
+    </Led>
+    <Led Id="Keyboard_C">
+      <X>+.1</X>
+    </Led>
+    <Led Id="Keyboard_V">
+      <X>+.1</X>
+    </Led>
+    <Led Id="Keyboard_B">
+      <X>+.1</X>
+    </Led>
+    <Led Id="Keyboard_N">
+      <X>+.1</X>
+    </Led>
+    <Led Id="Keyboard_M">
+      <X>+.1</X>
+    </Led>
+    <Led Id="Keyboard_CommaAndLessThan">
+      <X>+.1</X>
+    </Led>
+    <Led Id="Keyboard_PeriodAndBiggerThan">
+      <X>+.1</X>
+    </Led>
+    <Led Id="Keyboard_SlashAndQuestionMark">
+      <X>+.1</X>
+    </Led>
+    <Led Id="Keyboard_RightShift">
+      <X>+.1</X>
+      <Width>2.775</Width>
+    </Led>
+    <Led Id="Keyboard_LeftCtrl">
+      <X>6</X>
+      <Y>106.8</Y>
+      <Width>1.46</Width>
+    </Led>
+    <Led Id="Keyboard_LeftGui">
+      <X>+.1</X>
+      <Width>1.26</Width>
+    </Led>
+    <Led Id="Keyboard_LeftAlt">
+      <X>+.1</X>
+      <Width>1.26</Width>
+    </Led>
+    <Led Id="Keyboard_Space">
+      <X>+.1</X>
+      <Width>5.82</Width>
+    </Led>
+    <Led Id="Keyboard_RightAlt">
+      <X>+.1</X>
+      <Width>1.24</Width>
+    </Led>
+    <Led Id="Keyboard_Function">
+      <X>+.1</X>
+      <Width>1.24</Width>
+    </Led>
+    <Led Id="Keyboard_Application">
+      <X>+.1</X>
+      <Width>1.25</Width>
+    </Led>
+    <Led Id="Keyboard_RightCtrl">
+      <X>+.1</X>
+      <Width>1.5</Width>
+    </Led>
+    <Led Id="Keyboard_PrintScreen">
+      <X>299.2</X>
+      <Y>6</Y>
+    </Led>
+    <Led Id="Keyboard_ScrollLock">
+      <X>+.1</X>
+    </Led>
+    <Led Id="Keyboard_PauseBreak">
+      <X>+.1</X>
+    </Led>
+    <Led Id="Keyboard_Insert">
+      <X>299.2</X>
+      <Y>30</Y>
+    </Led>
+    <Led Id="Keyboard_Home">
+      <X>+.1</X>
+    </Led>
+    <Led Id="Keyboard_PageUp">
+      <X>+.1</X>
+    </Led>
+    <Led Id="Keyboard_Delete">
+      <X>299.2</X>
+      <Y>49.2</Y>
+    </Led>
+    <Led Id="Keyboard_End">
+      <X>+.1</X>
+    </Led>
+    <Led Id="Keyboard_PageDown">
+      <X>+.1</X>
+    </Led>
+    <Led Id="Keyboard_ArrowUp">
+      <X>318.3</X>
+      <Y>87.6</Y>
+    </Led>
+    <Led Id="Keyboard_ArrowLeft">
+      <X>299.2</X>
+      <Y>106.8</Y>
+    </Led>
+    <Led Id="Keyboard_ArrowDown">
+      <X>+.1</X>
+    </Led>
+    <Led Id="Keyboard_ArrowRight">
+      <X>+.1</X>
+    </Led>
+    <Led Id="Keyboard_NumLock">
+      <X>363</X>
+      <Y>30</Y>
+    </Led>
+    <Led Id="Keyboard_NumSlash">
+      <X>+.1</X>
+    </Led>
+    <Led Id="Keyboard_NumAsterisk">
+      <X>+.1</X>
+    </Led>
+    <Led Id="Keyboard_NumMinus">
+      <X>+.1</X>
+    </Led>
+    <Led Id="Keyboard_Num7">
+      <X>363</X>
+      <Y>49.2</Y>
+    </Led>
+    <Led Id="Keyboard_Num8">
+      <X>+.1</X>
+    </Led>
+    <Led Id="Keyboard_Num9">
+      <X>+.1</X>
+    </Led>
+    <Led Id="Keyboard_NumPlus">
+      <X>+.1</X>
+      <Height>2.01</Height>
+    </Led>
+    <Led Id="Keyboard_Num4">
+      <X>363</X>
+      <Y>68.4</Y>
+    </Led>
+    <Led Id="Keyboard_Num5">
+      <X>+.1</X>
+    </Led>
+    <Led Id="Keyboard_Num6">
+      <X>+.1</X>
+    </Led>
+    <Led Id="Keyboard_Num1">
+      <X>363</X>
+      <Y>87.6</Y>
+    </Led>
+    <Led Id="Keyboard_Num2">
+      <X>+.1</X>
+    </Led>
+    <Led Id="Keyboard_Num3">
+      <X>+.1</X>
+    </Led>
+    <Led Id="Keyboard_NumEnter">
+      <X>+.1</X>
+      <Height>2.01</Height>
+    </Led>
+    <Led Id="Keyboard_Num0">
+      <X>363</X>
+      <Y>106.8</Y>
+      <Width>2.01</Width>
+    </Led>
+    <Led Id="Keyboard_NumPeriodAndDelete">
+      <X>+.1</X>
+    </Led>
+  </Leds>
+  <CustomData>
+    <DeviceImage>g512.PNG</DeviceImage>
+  </CustomData>
+</Device>
